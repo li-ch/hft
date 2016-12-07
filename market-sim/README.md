@@ -1,1 +1,1 @@
-A packet generator to simulate market/exchange incoming data stream.
+A packet generator to simulate (Mainland China) market/exchange incoming data stream.
